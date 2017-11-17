@@ -1,5 +1,4 @@
-# Lab-8-questions one
-# lab-8
+ # lab-8
 +//question 1
 +#include <iostream>
 +using namespace std;
