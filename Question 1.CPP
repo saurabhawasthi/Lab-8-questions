@@ -1,4 +1,4 @@
-   @@ -0,0 +1,111 @@
+  @@ -0,0 +1,111 @@
 +# lab-8
 +//question 1
 +#include <iostream>
@@ -110,3 +110,4 @@
 +  }while(ch!='4');
 +  return 0;
 +}
+ 
