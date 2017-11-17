@@ -1,4 +1,4 @@
-  # lab-8
+   +# lab-8
 +//question 1
 +#include <iostream>
 +using namespace std;
@@ -109,10 +109,4 @@
 +  }while(ch!='4');
 +  return 0;
 +}
-0 comments on commit b8db87d
-@saurabhawasthi
-
-Attach files by dragging & dropping,
-
-, or pasting from the clipboard.
-Styling with Markdown is supported
+ 
