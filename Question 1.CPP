@@ -1,4 +1,5 @@
-   +# lab-8
+   @@ -0,0 +1,111 @@
++# lab-8
 +//question 1
 +#include <iostream>
 +using namespace std;
